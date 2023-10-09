@@ -1,0 +1,1 @@
+{"name":"Local: operator+","url":"c:\\Users\\Manish Kumar\\Desktop\\c++\\operator+.cpp","tests":[{"id":1695053698612,"input":"a","output":"97"},{"id":1695053712659,"input":"y","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Manish Kumar\\Desktop\\c++\\operator+.cpp","group":"local","local":true}

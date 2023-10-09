@@ -4,8 +4,7 @@ int main(){
     
     int p,t,r;
     cin>>p>>r>>t;
-    double I=(p*r*t)/100.0;
-    cout<<I<<endl;
+    cout<<p+r<<endl;
      
     return 0;
 }
